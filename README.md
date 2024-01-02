@@ -21,6 +21,11 @@ I am Rafika a **beginner** in **mobile programming**. Eventually a beginnerâ˜˜ï¸
 </a>
 </p>
 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.6.1/ci.min.css"
+/>
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 
