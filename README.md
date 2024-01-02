@@ -15,7 +15,7 @@ I am Rafika a **beginner** in **mobile programming**. Eventually a beginnerâ˜˜ï¸
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/mahesawp45">
+<a href="https://github.com/rafikaWardah12">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafikaWardah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafikaWardah12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
