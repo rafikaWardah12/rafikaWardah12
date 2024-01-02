@@ -33,7 +33,7 @@ I am Rafika a **beginner** in **mobile programming**. Eventually a beginnerâ˜˜ï¸
 <a href= "https://github.com/rafikaWardah12"><img src='./svg/github-light.svg' width="32px"></a>
 <a href= "https://www.linkedin.com/in/rafika-wardah-8537532a1/"><img src='./svg/linkedin.svg' width="32px"></a>
 <a href= "https://www.instagram.com/rafika.wardah/"><img src='./svg/instagram.svg' width="32px"></a>
-<a href= "https://discordapp.com/users/553898804978384899"><img src='./svg/discord.svg' width="32px"></a>
+<a href= "https://discordapp.com/users/582957916995321877"><img src='./svg/discord.svg' width="32px"></a>
 </p>
 
 
