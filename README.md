@@ -5,7 +5,7 @@ I am Rafika a **beginner** in **mobile programming**. Eventually a beginner☘�
 * 💼   Now I'm a Student.
 * 🌱   Currently learning Android Development
 * 📚   Reading Manga or Manhwa (for relaxasing).
-* 💻   Interested with technology, modern and minimalistic style.
+* 💻   Interested with technology, modern, design and aesthetic style.
 
 ### Tech Stack
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
