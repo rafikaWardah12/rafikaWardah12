@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Rafika a **beginner** in **mobile programming**. Eventually a beginner☘️, I am **reliable, adaptive and able to contribute** to software development😎💻 I also a content writer in my current job and plan to create a Medium for **sharing My Knowledge** in Technologies💡✨
+
+
 
 <!--
 **rafikaWardah12/rafikaWardah12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
