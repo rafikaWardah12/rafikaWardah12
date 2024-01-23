@@ -14,12 +14,13 @@ I am Rafika a **beginner** in **mobile programming**. Eventually a beginnerâ˜˜ï¸
   <br>
   
 ### Github Statistic
-<p align="left">
+![Profile views](https://komarev.com/ghpvc/?username=rafikaWardah12&color=gray)
+<div align="left">
 <a href="https://github.com/rafikaWardah12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafikaWardah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafikaWardah12&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafikaWardah12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafikaWardah12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-</p>
+</div>
 
 <link
   rel="stylesheet"
