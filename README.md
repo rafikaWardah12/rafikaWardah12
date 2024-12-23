@@ -4,7 +4,7 @@ I am Rafika a **beginner** in **mobile programming**. Eventually a beginner☘�
 * 🧐   Interested in Mobile Development
 * 💼   Now I'm a Student.
 * 🌱   Currently learning Android Development
-* 📚   Reading Manga or Manhwa (for relaxasing).
+* 📚   Reading Manga or Manhwa (for relaxing).
 * 💻   Interested with technology, modern, design and aesthetic style.
 
 ### Tech Stack
